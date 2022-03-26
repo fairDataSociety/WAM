@@ -40,7 +40,7 @@ After hearing feedback from the community and taking it into account, we decided
 
 -   [r0qs/beezim](https://github.com/r0qs/beezim)
     
--   [shepherliu/bzzwikimirror](https://github.com/shepherliu/bzzwikimirror)
+-   [pizzooid/wiki-on-swarm](https://github.com/pizzooid/wiki-on-swarm)
     
 
 We would like to thank our community members for sharing their opinions, and for engaging us in a constructive discussion! 
